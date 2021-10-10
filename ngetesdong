@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ngetes dong</title>
+  </head>
+  <body>
+    <button>Tombol Kiri</button>
+    <button>Tombol Kanan</button>
+  </body>
+</html>
